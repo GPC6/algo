@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\gamej\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\gamej\\.nuget\\packages"
+    ]
+  }
+}
